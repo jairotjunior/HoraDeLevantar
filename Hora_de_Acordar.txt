@@ -1,0 +1,17 @@
+Hora de acordar (Início)
+  1 -  Abro os olhos
+  2 -  Se esposa acordada
+    1. Desejo um bom dia
+    2. Sigo ao passo 4
+  3 -  Se esposa dormindo
+    1. Sigo ao passo 4
+  4 -  Me levanto da cama
+  5 -  Coloco os chinelos
+  6 -  Ando até o banheiro
+  7 -  Se porta fechada
+    1. Aguardo ser aberta
+    2. Sigo ao passo 9
+  8 -  Se porta aberta
+    1. Sigo ao passo 9
+  9 - Entro no banheiro
+Fim
